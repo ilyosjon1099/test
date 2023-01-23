@@ -1,4 +1,6 @@
 ## Personal Portfolio
-new
+
+
+Start 'npm run dev'
 Setup:
 - run ```npm i && npm start```
