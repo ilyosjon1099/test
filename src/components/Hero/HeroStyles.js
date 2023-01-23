@@ -2,6 +2,11 @@ import styled from 'styled-components';
 
 export const LeftSection = styled.div`
   width: 100%;
+
+  a{
+    color: #fff;
+    transition: all .4s;
+  }
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 80%;
     display: flex;

@@ -2,12 +2,12 @@ import { useState } from "react";
 
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish.",
+    title: 'MERN AI Image Generation App',
+    description: "Using React, Node.js, Express & MongoDB. You can create your dream image",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/ergashevislomjon/image_ai',
+    visit: 'https://image-ai-five.vercel.app/',
     id: 0,
   },
   {
