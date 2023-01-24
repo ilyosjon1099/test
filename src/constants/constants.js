@@ -4,7 +4,7 @@ export const projects = [
   {
     title: 'MERN AI Image Generation App',
     description: "Using React, Node.js, Express & MongoDB. You can create your dream image",
-      image: '/images/1.png',
+      image: '/images/1.jpg',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/ergashevislomjon/image_ai',
     visit: 'https://image-ai-five.vercel.app/',
@@ -13,7 +13,7 @@ export const projects = [
   {
     title: 'Chat AI Application',
     description:"With an elegant user interface that resembles the Chat GPT app, communication with advanced GPT 3 model API.",
-    image: '/images/2.png',
+    image: '/images/2.jpg',
     tags: ['React', 'JavaScript', 'Firebase'],
     source: 'https://github.com/ergashevislomjon/chat_open_ai',
     visit: 'https://chat-openai-uz.vercel.app/',
