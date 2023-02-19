@@ -100,6 +100,15 @@ export const projects = [
     visit: 'https://namoz-time.netlify.app/',
     id: 10,
   },
+  {
+    title: 'Super Fast Food Delivery Service',
+    description: "Super Fast Food Delivery service website.",
+      image: '/images/12.png',
+      tags: ['HTML', 'CSS', 'Javascript'],
+    source: 'https://github.com/ergashevislomjon/eFood---responsive-website',
+    visit: 'https://efood-uz.netlify.app/',
+    id: 11,
+  },
 ];
 
 export const TimeLineData = [
