@@ -105,7 +105,7 @@ export const projects = [
     description: "Super Fast Food Delivery service website.",
       image: '/images/12.png',
       tags: ['HTML', 'CSS', 'Javascript'],
-    source: 'https://github.com/ergashevislomjon/eFood---responsive-website',
+    source: 'https://github.com/ergashevislomjon/Namoz-times',
     visit: 'https://efood-uz.netlify.app/',
     id: 11,
   },
