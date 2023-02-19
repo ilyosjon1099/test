@@ -67,7 +67,7 @@ const Timeline = () => {
       <SectionText>
         As a frontend developer, I am passionate about bringing ideas to life
         through code. I have a strong understanding of HTML, CSS, and
-        JavaScript, Reactjs, and I am always seeking to learn new technologies
+        JavaScript, Reactjs,  Redux, NextJs and I am always seeking to learn new technologies
         and improve my skills. I am a creative problem-solver who enjoys the
         challenge of taking complex ideas and turning them into intuitive,
         user-friendly designs. I take pride in my attention to detail and

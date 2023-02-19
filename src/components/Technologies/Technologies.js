@@ -32,7 +32,8 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Node and Databases <br />
+            Java, Spring, PostgreSQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
