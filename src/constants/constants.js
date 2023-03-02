@@ -10,7 +10,7 @@ export const projects = [
     visit: 'https://online-mahalla.netlify.app/',
     id: 7,
   },
-  
+
   {
     title: 'Chat AI Application',
     description:"With an elegant user interface that resembles the Chat GPT app, communication with advanced GPT 3 model API.",
@@ -46,6 +46,33 @@ export const projects = [
     source: 'https://github.com/ergashevislomjon/google-books',
     visit: 'https://bookshelter-search.netlify.app/',
     id: 8,
+  },
+  {
+    title: 'Weather app',
+    description: "You can get city weather information in this app.",
+      image: '/images/14.png',
+      tags: ['HTML', 'CSS', 'Javascript'],
+    source: 'https://github.com/ergashevislomjon/Weather_app',
+    visit: 'https://weather-app-islomjon.netlify.app/',
+    id: 12,
+  },
+  {
+    title: 'Countries of the world',
+    description: "You can get information about all the countries of the world through this app.",
+      image: '/images/13.png',
+      tags: ['HTML', 'CSS', 'Javascript', 'RestApi'],
+    source: 'https://github.com/ergashevislomjon/country',
+    visit: 'https://all-country-data.netlify.app/',
+    id: 13,
+  },
+  {
+    title: 'Mytube app',
+    description: "This is an app that uses the Youtube api. YouTube videos can be searched and viewed.",
+      image: '/images/15.png',
+      tags: ['HTML', 'CSS', 'Javascript', 'ReactJs', 'RestApi'],
+    source: 'https://github.com/ergashevislomjon',
+    visit: 'https://mytube-uz.netlify.app/',
+    id: 14,
   },
   {
     title: 'Google Search',
@@ -84,6 +111,8 @@ export const projects = [
     visit: 'https://efood-uz.netlify.app/',
     id: 11,
   },
+  
+  
 ];
 
 export const TimeLineData = [
