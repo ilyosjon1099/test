@@ -10,6 +10,7 @@ export const projects = [
     visit: 'https://online-mahalla.netlify.app/',
     id: 7,
   },
+  
   {
     title: 'Chat AI Application',
     description:"With an elegant user interface that resembles the Chat GPT app, communication with advanced GPT 3 model API.",
