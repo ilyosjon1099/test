@@ -48,6 +48,15 @@ export const projects = [
     id: 8,
   },
   {
+    title: 'AI Image Generator',
+    description: "Sun'iy intellekt asosida o'zingizning rasmingizni yarating.",
+    image: '/images/1.png',
+    tags: ['NodeJs', 'ExpressJs', 'MongoDB', 'Mongoose', 'ReactJs','HTML CSS', 'Javascript'],
+    source: 'https://github.com/ergashevislomjon/image_ai',
+    visit: 'https://image-ai-five.vercel.app/',
+    id: 15,
+  },
+  {
     title: 'Weather app',
     description: "You can get city weather information in this app.",
       image: '/images/14.png',
