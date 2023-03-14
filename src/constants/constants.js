@@ -50,7 +50,7 @@ export const projects = [
   {
     title: 'AI Image Generator',
     description: "Sun'iy intellekt asosida o'zingizning rasmingizni yarating.",
-    image: '/images/1.png',
+    image: '/images/1.jpg',
     tags: ['NodeJs', 'ExpressJs', 'MongoDB', 'Mongoose', 'ReactJs','HTML CSS', 'Javascript'],
     source: 'https://github.com/ergashevislomjon/image_ai',
     visit: 'https://image-ai-five.vercel.app/',
