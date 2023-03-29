@@ -17,7 +17,7 @@ const Hero = (props) => (
         Seeking an opportunity to achieve personal growth along with the overall success of a team of ambitious IT specialists. Offering enthusiasm, unique insights, and understanding of various programming languages.
         </SectionText>
         <Button href="" >
-          <a class="" href={`../../files/Ergashev_Islomjon_resume.pdf`} download>
+          <a class="" href={``} download>
             Download Resume
           </a>
         </Button>

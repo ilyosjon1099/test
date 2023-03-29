@@ -57,6 +57,15 @@ export const projects = [
     id: 15,
   },
   {
+    title: 'Movies website',
+    description: "Movies website. Movies website.",
+    image: '/images/14.png',
+    tags: ['HTML', 'CSS', 'Javascript', 'ReactJs', 'Rest API'],
+    source: 'https://github.com/ergashevislomjon/movies',
+    visit: 'https://movies-uzb.netlify.app/',
+    id: 16,
+  },
+  {
     title: 'Weather app',
     description: "You can get city weather information in this app.",
       image: '/images/14.png',
@@ -82,6 +91,24 @@ export const projects = [
     source: 'https://github.com/ergashevislomjon',
     visit: 'https://mytube-uz.netlify.app/',
     id: 14,
+  },
+  {
+    title: 'Restaurant website ',
+    description: "A restaurant website where you can book a restaurant.",
+    image: '/images/15.png',
+    tags: ['HTML', 'CSS', 'Javascript', 'ReactJs'],
+    source: 'https://github.com/ergashevislomjon/gerIicht-food',
+    visit: 'https://geriicht-food.netlify.app/',
+    id: 18,
+  },
+  {
+    title: 'Millor coffee website ',
+    description: "Millor coffee website. Millor coffee website.",
+    image: '/images/15.png',
+    tags: ['HTML', 'CSS', 'Javascript', 'ReactJs'],
+    source: 'https://github.com/ergashevislomjon/millor-coffee',
+    visit: 'https://millor-coffee.vercel.app/',
+    id: 19,
   },
   {
     title: 'Google Search',
@@ -110,7 +137,6 @@ export const projects = [
     visit: 'https://learning-centeruz.netlify.app/',
     id: 9,
   },
-  
   {
     title: 'Super Fast Food Delivery Service',
     description: "Super Fast Food Delivery service website.",
@@ -119,6 +145,15 @@ export const projects = [
     source: 'https://github.com/ergashevislomjon/Namoz-times',
     visit: 'https://efood-uz.netlify.app/',
     id: 11,
+  },
+  {
+    title: 'Techgear website',
+    description: "Website for a hardware store.",
+    image: '/images/12.png',
+    tags: ['HTML', 'CSS', 'Javascript'],
+    source: 'https://github.com/ergashevislomjon/techgear',
+    visit: 'https://techgear-uz.netlify.app/',
+    id: 17,
   },
   
   
