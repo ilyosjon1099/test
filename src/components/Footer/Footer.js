@@ -10,12 +10,12 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:+998908575747">+998908575747</LinkItem>
+          <LinkItem href="tel:+998908575757">+998908575757</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:ergashevislomjon1020@gmail.com">
-            ergashevislomjon1020@gmail.com
+          <LinkItem href="mailto:ergashevilyosjon1099@gmail.com">
+            ergashevilyosjon1099@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
@@ -24,10 +24,10 @@ const Footer = () => {
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/ergashevislomjon" target={'_blank'}>
+          <SocialIcons href="https://github.com/ergashev2000" target={'_blank'}>
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/islomjon-ergashev/" target={'_blank'}>
+          <SocialIcons href="#" target={'_blank'}>
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
           <SocialIcons href="https://www.instagram.com/" target={'_blank'}>
