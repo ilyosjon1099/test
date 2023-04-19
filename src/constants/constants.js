@@ -58,8 +58,8 @@ export const projects = [
   },
   {
     title: 'Movies website',
-    description: "A website where you can find all movies and sort your favorite movies.",
-    image: '/images/16.png',
+    description: "Movies website. Movies website.",
+    image: '/images/14.png',
     tags: ['HTML', 'CSS', 'Javascript', 'ReactJs', 'Rest API'],
     source: 'https://github.com/ergashev2000/movies',
     visit: 'https://movies-uzb.netlify.app/',
@@ -95,7 +95,7 @@ export const projects = [
   {
     title: 'Restaurant website ',
     description: "A restaurant website where you can book a restaurant.",
-    image: '/images/17.png',
+    image: '/images/15.png',
     tags: ['HTML', 'CSS', 'Javascript', 'ReactJs'],
     source: 'https://github.com/ergashev2000/gerIicht-food',
     visit: 'https://geriicht-food.netlify.app/',
@@ -104,7 +104,7 @@ export const projects = [
   {
     title: 'Millor coffee website ',
     description: "Millor coffee website. Millor coffee website.",
-    image: '/images/19.png',
+    image: '/images/15.png',
     tags: ['HTML', 'CSS', 'Javascript', 'ReactJs'],
     source: 'https://github.com/ergashev2000/millor-coffee',
     visit: 'https://millor-coffee.vercel.app/',
@@ -149,7 +149,7 @@ export const projects = [
   {
     title: 'Techgear website',
     description: "Website for a hardware store.",
-    image: '/images/18.png',
+    image: '/images/12.png',
     tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://github.com/ergashev2000/techgear',
     visit: 'https://techgear-uz.netlify.app/',
